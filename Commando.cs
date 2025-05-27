@@ -8,8 +8,8 @@ namespace CommandoProject
 {
     internal class Commando
     {
-        public string Name;
-        public string CodeName;
+        public string Name { get; set; }
+        public string CodeName {  get; set; }
         public string[] Tools = { "Hammer", "Chisel", "Knife", "Rope", "Ladder" };
         public Enums.SoliderStatus Status;
 
@@ -30,6 +30,63 @@ namespace CommandoProject
             Console.WriteLine("The solider hiding");
             this.Status = Enums.SoliderStatus.hide;
         }
+
+        public void Attack()
+        {
+            Console.WriteLine("The solider is attacking");
+        }
+        public string SayName(string commandeRank)
+        {
+            switch(commandeRank)
+            {
+                case "general":
+                    return this.Name;
+
+                case "colonel":
+                    return this.CodeName;
+
+                default:
+                    return "the information is classified";
+            }
+        }
+
+
+        internal class AirCommando : Commando
+        {
+            public AirCommando(string name, string codeName) : base(name, codeName)
+            {
+            }
+
+            public void Parachuting()
+            {
+                Console.WriteLine("The solider is parachuting");
+            }
+
+            public void Attack()
+            {
+                Console.WriteLine("The solider air commando is attacking");
+            }
+        }
+
+        internal class SeaCommando : Commando
+        {
+            public SeaCommando(string name, string codeName) : base(name, codeName)
+            {
+            }
+
+
+            public void Swimming()
+            {
+                Console.WriteLine("The solider is swimming");
+            }
+
+            public void Attack()
+            {
+                Console.WriteLine("The solider sea commando is attacking");
+            }
+        }
+
+
 
 
 
