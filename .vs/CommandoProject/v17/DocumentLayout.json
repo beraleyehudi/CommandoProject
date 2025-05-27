@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CommandoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\commandoproject\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\commandoproject\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\commandoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CommandoProject\\Enums.cs",
+              "RelativeDocumentMoniker": "Enums.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CommandoProject\\Enums.cs",
+              "RelativeToolTip": "Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:27:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commando.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CommandoProject\\Commando.cs",
+              "RelativeDocumentMoniker": "Commando.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CommandoProject\\Commando.cs",
+              "RelativeToolTip": "Commando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:25:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CommandoProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CommandoProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:14:22.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
