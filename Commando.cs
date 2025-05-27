@@ -22,11 +22,13 @@ namespace CommandoProject
         public void Walk()
         {
             Console.WriteLine("The solider walking");
+            this.Status = Enums.SoliderStatus.walk;
         }
 
         public void Hide()
         {
             Console.WriteLine("The solider hiding");
+            this.Status = Enums.SoliderStatus.hide;
         }
 
 

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CommandoProject\bin\Debug\CommandoProject.exe.config
+C:\Users\User\Desktop\CommandoProject\bin\Debug\CommandoProject.exe
+C:\Users\User\Desktop\CommandoProject\bin\Debug\CommandoProject.pdb
+C:\Users\User\Desktop\CommandoProject\obj\Debug\CommandoProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CommandoProject\obj\Debug\CommandoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CommandoProject\obj\Debug\CommandoProject.exe
+C:\Users\User\Desktop\CommandoProject\obj\Debug\CommandoProject.pdb

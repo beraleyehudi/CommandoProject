@@ -10,7 +10,7 @@ namespace CommandoProject
     {
         public string Name;
         public string Manufacturer;
-        public int Bullets;
+        public int Bullets = 40;
 
         public Weapon(string name, string manufacturer)
         {
