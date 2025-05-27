@@ -9,7 +9,7 @@ namespace CommandoProject
     internal class Commando
     {
         public string Name { get; set; }
-        public string CodeName {  get; set; }
+        public string CodeName { get; set; }
         public string[] Tools = { "Hammer", "Chisel", "Knife", "Rope", "Ladder" };
         public Enums.SoliderStatus Status;
 
@@ -31,13 +31,13 @@ namespace CommandoProject
             this.Status = Enums.SoliderStatus.hide;
         }
 
-        public void Attack()
+        public virtual void Attack()
         {
             Console.WriteLine("The solider is attacking");
         }
         public string SayName(string commandeRank)
         {
-            switch(commandeRank)
+            switch (commandeRank)
             {
                 case "general":
                     return this.Name;
@@ -49,6 +49,7 @@ namespace CommandoProject
                     return "the information is classified";
             }
         }
+    }
 
 
         internal class AirCommando : Commando
@@ -62,7 +63,7 @@ namespace CommandoProject
                 Console.WriteLine("The solider is parachuting");
             }
 
-            public void Attack()
+            public override void Attack()
             {
                 Console.WriteLine("The solider air commando is attacking");
             }
@@ -80,7 +81,7 @@ namespace CommandoProject
                 Console.WriteLine("The solider is swimming");
             }
 
-            public void Attack()
+            public override void Attack()
             {
                 Console.WriteLine("The solider sea commando is attacking");
             }
@@ -91,4 +92,4 @@ namespace CommandoProject
 
 
     }
-}
+
