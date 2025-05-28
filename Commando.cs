@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CommandoProject
 {
-    internal class Commando
+    public class Commando
     {
         public string Name { get; set; }
         public string CodeName { get; set; }
@@ -35,24 +35,17 @@ namespace CommandoProject
         {
             Console.WriteLine("The solider is attacking");
         }
+
         public string SayName(string commandeRank)
         {
-            switch (commandeRank)
-            {
-                case "general":
-                    return this.Name;
-
-                case "colonel":
-                    return this.CodeName;
-
-                default:
-                    return "the information is classified";
-            }
+            return AccessPermissoins.CommandoAccess.NameAccess(commandeRank, this);
+           
         }
+
     }
 
 
-        internal class AirCommando : Commando
+        internal class AirCommando : Commando, Parachuting
         {
             public AirCommando(string name, string codeName) : base(name, codeName)
             {
@@ -69,7 +62,7 @@ namespace CommandoProject
             }
         }
 
-        internal class SeaCommando : Commando
+        internal class SeaCommando : Commando, Swimming
         {
             public SeaCommando(string name, string codeName) : base(name, codeName)
             {

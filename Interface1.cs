@@ -6,16 +6,13 @@ using System.Threading.Tasks;
 
 namespace CommandoProject
 {
-    public class Enums
+    internal interface Parachuting
     {
-        public enum SoliderStatus
-        {
-            standing,
-            walk,
-            hide
+        void Parachuting();
+    }
 
-        }
-
-        
+    internal interface Swimming
+    {
+        void Swimming();
     }
 }

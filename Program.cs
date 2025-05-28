@@ -8,6 +8,48 @@ namespace CommandoProject
 {
     internal class Program
     {
+
+        public bool Practice(string str)
+        {
+
+            int currentNumber = 0;
+
+            for (int i = 0; i < str.Length; i++)
+            {
+                bool equl = true;
+                
+                currentNumber = int.Parse(str[i].ToString());
+
+                if (currentNumber < str.Length)
+                {
+                    for (int j = 0; j < currentNumber; j++)
+                    {
+                        if (!(str[i] == str[i + 1+ j]))
+                        {
+                            equl = false;
+                            break;
+                        }
+                    }
+                    if (equl)
+                    {
+                        return true;
+                    }
+                }
+
+
+            }
+            return false;
+        }
+
+
+
+
+           
+
+
+        
+
+
         static void Main(string[] args)
         {
             Weapon gan = new Weapon("Uzi", "israel");
@@ -30,8 +72,15 @@ namespace CommandoProject
 
             }
 
-            
-
+            Console.WriteLine(new Program().Practice("2345"));
         }
+
+      
+
+
+
+
+
     }
 }
+
