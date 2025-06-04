@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\\u05E9\u05D1\u05D5\u05E2 4\\commandoproject\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\\u05E9\u05D1\u05D5\u05E2 4\\commandoproject\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\\u05E9\u05D1\u05D5\u05E2 4\\commandoproject\\accesspermissoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\accesspermissoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:accesspermissoins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|c:\\users\\user\\desktop\\\u05E9\u05D1\u05D5\u05E2 4\\commandoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19E2A8D9-C441-4309-BBEE-7431C8E07B7A}|CommandoProject.csproj|C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Interface1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\Interface1.cs",
               "RelativeDocumentMoniker": "Interface1.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AccessPermissoins.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\AccessPermissoins.cs",
               "RelativeDocumentMoniker": "AccessPermissoins.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\Weapon.cs",
               "RelativeDocumentMoniker": "Weapon.cs",
@@ -89,8 +89,7 @@
               "RelativeToolTip": "Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T06:27:43.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T06:27:43.492Z"
             },
             {
               "$type": "Document",
@@ -100,20 +99,20 @@
               "RelativeDocumentMoniker": "Commando.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\Commando.cs",
               "RelativeToolTip": "Commando.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA8wDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T06:25:53.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9\u05D1\u05D5\u05E2 4\\CommandoProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T06:14:22.341Z",
               "EditorCaption": ""
